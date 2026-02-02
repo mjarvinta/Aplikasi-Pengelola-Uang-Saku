@@ -1,0 +1,10 @@
+{
+  "saldo": 1.0,
+  "transactions": [
+    {
+      "type": "pemasukan",
+      "amount": 1.0,
+      "time": "2026-02-02 06:17:36"
+    }
+  ]
+}
